@@ -25,4 +25,3 @@ def CombinacionesPosiblesDominos(n_dominos):
         return lista [-1]       
 
 print(CombinacionesPosiblesDominos(50))
-s = str(input("ASJDBAKSDJ:"))
